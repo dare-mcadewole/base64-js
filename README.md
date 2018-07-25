@@ -1,14 +1,13 @@
-# Base64 Encoder/Decoder for
-JavaScript Base64 Encoding and Decoding Library
+# Base64 Encoder/Decoder for JavaScript
+Base64 Encoding and Decoding Library for JavaScript
 
 ### Installation
-1 Run `git clone https://github.com/dare-mcadewole/base64-js.git` on Bash / Windows Shell
-2 Run `cd base64-js`
-3 Run `yarn`
+1. Run `git clone https://github.com/dare-mcadewole/base64-js.git` on Bash / Windows Shell
+2. Run `cd base64-js`
+3. Run `yarn`
 
 ### Running
 Run `yarn dev`
-
 
 ## Documentation
 Loading...
